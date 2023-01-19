@@ -91,6 +91,8 @@ else
         result.style.color = 'red';
         result.innerHTML = 'Obesidade | obesidade: III';
     }
+    peso.value = "";
+    altura.value = "";
     go(2,3);
 }
 }
